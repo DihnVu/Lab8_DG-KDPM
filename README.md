@@ -109,5 +109,3 @@ Bài thực hành đã giới thiệu các thao tác cơ bản khi sử dụng A
 
 Apache JMeter là công cụ hữu ích trong quá trình kiểm thử hiệu năng phần mềm, giúp đánh giá thời gian phản hồi và phát hiện lỗi khi hệ thống xử lý yêu cầu. Trong các bài thực hành tiếp theo, có thể mở rộng kịch bản với nhiều người dùng ảo và sử dụng các báo cáo thống kê để đánh giá hệ thống toàn diện hơn.
 
-
-• Content-Type: text/html.
