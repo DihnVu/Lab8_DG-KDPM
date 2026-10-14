@@ -1,7 +1,5 @@
 # Lab8_DG-KDPM
 
-# BÁO CÁO THỰC HÀNH APACHE JMETER
-
 ## 1. Giới thiệu
 
 Apache JMeter là công cụ mã nguồn mở được sử dụng để kiểm thử hiệu năng của ứng dụng web và các dịch vụ mạng. Công cụ cho phép mô phỏng nhiều người dùng gửi yêu cầu đến máy chủ, từ đó đánh giá thời gian phản hồi và khả năng xử lý của hệ thống.
